@@ -76,7 +76,7 @@ namespace StopWatch.Winform
         private void DisplayTimer(Label timerDisplay)
         {
             timerDisplay.Text = hour + ":" + min + ":" + sec + ":" + ms.ToString();
-            //test
+            //TEST
         }
 
     }
