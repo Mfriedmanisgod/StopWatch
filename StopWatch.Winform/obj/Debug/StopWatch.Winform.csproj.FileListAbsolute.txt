@@ -1,0 +1,9 @@
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\bin\Debug\StopWatch.Winform.exe.config
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\bin\Debug\StopWatch.Winform.exe
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\bin\Debug\StopWatch.Winform.pdb
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.csprojResolveAssemblyReference.cache
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.Form1.resources
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.Properties.Resources.resources
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.csproj.GenerateResource.Cache
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.exe
+C:\Users\Katherine\Documents\Visual Studio 2013\Projects\StopWatch\StopWatch.Winform\obj\Debug\StopWatch.Winform.pdb
